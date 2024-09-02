@@ -11,10 +11,10 @@ Es un trabajo en progreso y por tanto no está completo. Se recomienda su uso li
 
 *Es posible que aparezca una ventana indicando que el archivo no es compatible. Continuar de todas formas.*
 
-4. Ya cargado el archivo podemos elegirlo de la lista de estilos disponibles al crear bibliografía.
+Ya cargado el archivo podemos elegirlo de la lista de estilos disponibles al crear bibliografía.
 
 
-* TODO
+* Por hacer
 - [X] Archivo funcional pero poco compatible.
 - [ ] Ajustar el formato del =.csl= a CSL 1.0.2
 - [ ] Agregar el estilo a la base de datos general de CSL, para que quede disponible en Zotero/Mendeley por defecto.
