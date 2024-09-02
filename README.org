@@ -4,6 +4,8 @@ Este repositorio alberga el Citation Style Language (csl) para la Facultad de Ci
 
 Es un trabajo en progreso y por tanto no está completo. Se recomienda su uso libre pero con una revisión de las citas para asegurarse de que siguen el formato de la facultad.
 
+Basado en el [[http://repositorio.uchile.cl/pdf/Citas_bibliograficas.pdf][manual de citas de la facultad]].
+
 * Instrucciones
 1. Descargar el archivo =cfcn.csl=
 2. Abrir Zotero -> Editar -> Ajustes -> Citas
@@ -18,3 +20,4 @@ Ya cargado el archivo podemos elegirlo de la lista de estilos disponibles al cre
 - [X] Archivo funcional pero poco compatible.
 - [ ] Ajustar el formato del =.csl= a CSL 1.0.2
 - [ ] Agregar el estilo a la base de datos general de CSL, para que quede disponible en Zotero/Mendeley por defecto.
+- [ ] Reescritura en =.bst= para uso en =latex=.
